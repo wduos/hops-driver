@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1000px" height="447px" viewBox="0 0 1000 447">
 <defs>
 <g id="Layer1_0_FILL">
-<path fill="#FFF9F5" stroke="none" d="
+<path fill="#FF4D00" stroke="none" d="
 M 232.85 141.2
 Q 224.15 130 211.95 125.55 199.55 121.3 183.9 121.5 159.35 121.3 136.35 132.3 113.1 143.15 97.45 169.45
 L 97.45 23.45
@@ -51,7 +51,7 @@ Q 976.8 153.8 964.25 142.75 951.5 131.95 934.05 126.5 916.45 121.5 897.15 121.5 
 </g>
 
 <g id="Layer0_0_FILL">
-<path fill="#F53D2D" stroke="none" d="
+<path fill="#FF4D00" stroke="none" d="
 M 232.75 141.2
 Q 224.05 130 211.85 125.55 199.45 121.3 183.8 121.5 159.25 121.3 136.45 132.3 113.2 143.15 97.55 169.45
 L 97.55 23.45
